@@ -95,7 +95,7 @@ You can use tools like Postman to interact with the API. Here are some example r
     "name": "John",
     "email": "john@gmail.com",
     "dob": "2000-03-01",
-    age: 23
+    "age": 23
   }
   ```
 
