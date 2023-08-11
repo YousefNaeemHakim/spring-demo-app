@@ -33,8 +33,8 @@ To run this project locally, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/student-api.git
-   cd student-api
+   git clone [https://github.com/yourusername/student-api.git](https://github.com/YousefNaeemHakim/spring-demo-app.git)
+   cd spring-demo-app
    ```
 
 2. Configure the Database:
